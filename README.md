@@ -28,11 +28,4 @@
 - `HaberManager.java`: Haber ekleme, silme, listeleme ve sıralama işlemlerini yönetir.  
 - `Main.java`: Programın giriş noktası ve örnek kullanım senaryoları.  
 
----
 
-## 🚀 Kurulum
-
-1. Projeyi GitHub’dan klonlayın:
-
-```bash
-git clone https://github.com/rahmigoktas/HaberSitesi.git
