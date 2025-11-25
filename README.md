@@ -19,13 +19,6 @@
 - Java 17+  
 - Java Collections (`ArrayList`, `Comparator` vb.)  
 - Java Time API (`LocalDate`)  
-
----
-
-## 📂 Proje Yapısı
-
-- `Haber.java`: Haberlerin başlık, içerik, kategori ve tarih bilgilerini tutar.  
-- `HaberManager.java`: Haber ekleme, silme, listeleme ve sıralama işlemlerini yönetir.  
-- `Main.java`: Programın giriş noktası ve örnek kullanım senaryoları.  
+ 
 
 
