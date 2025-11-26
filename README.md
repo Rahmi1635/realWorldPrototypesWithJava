@@ -32,16 +32,17 @@ Arama sonucunda bulunan ilk haberin kategorisine göre ilgili diğer haberler ö
 
 Eklenen tüm haberler Consumer kullanılarak formatlı şekilde görüntülenir.
 
-Kullanılan Java Yapıları
+🛠 Kullanılan Java Yapıları
 
 Bu proje, Java’nın modern fonksiyonel programlama yapılarından birçoğunu içerir:
 
 Kullanım	Açıklama
-Supplier	İlk haber listesini oluşturmak için kullanıldı.
-Consumer	Haberlerin ekrana basılma şeklini yönetiyor.
-Comparator	Haberleri tarihe göre sıralamak için kullanıldı.
-Streams API	Filtreleme, sıralama, listeleme işlemleri için kullanıldı.
-Lambda Expressions	Kodun daha okunabilir ve kısa olması sağlandı.
+Supplier : İlk haber listesini oluşturmak için kullanıldı.
+Consumer :	Haberlerin ekrana basılma şeklini yönetiyor.
+Comparator :	Haberleri tarihe göre sıralamak için kullanıldı.
+Streams API : Filtreleme, sıralama, listeleme işlemleri için kullanıldı.
+Lambda Expressions :	Kodun daha okunabilir ve kısa olması sağlandı.
+
 📁 Proje Yapısı
 src/
  ├── Main.java        → İşlemlerin yönetildiği ana sınıf
