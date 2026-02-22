@@ -1,4 +1,4 @@
-# realLifePrototypeWithJava
+# realWorldPrototypesWithJava
 📰 Haber Yönetim Sistemi – Java Console App
 
 Bu proje, Java kullanarak geliştirdiğim bir Haber Yönetim Sistemi uygulamasıdır. Konsol üzerinden haber ekleme, silme, güncelleme, arama ve haber önerme işlemlerini yapmanıza olanak sağlar.
